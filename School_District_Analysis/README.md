@@ -68,7 +68,9 @@ The analysis should contain the following:
 
 1. **Overview of the school district analysis:** Explain the purpose of this analysis.
 
-2. **Results:** Using bulleted lists and images of DataFrames as support, address the following questions.
+2. **Results:** 
+
+3. **Summary**
 
 ### How is the district summary affected?
 
@@ -86,8 +88,7 @@ The analysis should contain the following:
 
 
 ### How does replacing the ninth-grade scores affect the following:
-- Analysis Below:
-
+- 
     * Math and reading scores by grade
         - Math and Reading Scores from Thomas High School 9th Grade set to "nan" and equivalent to 0.
         - Math and Reading Scores from Thomas High School 9th Grade means all of them failed (set to fail for analysis).
@@ -110,7 +111,7 @@ The analysis should contain the following:
         - Removing Thomas High School 9th Grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing"
     
 
-3. **Summary:** (4) changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+**Summary:** (4) changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
    1. Average Math & Reading scores
    2. % Passing Math and Reading scores
    3. Overall Passing marks changes
