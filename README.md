@@ -61,7 +61,7 @@ repeating the school district analysis and updating the following required metri
  
 ### Deliverable 2 Results:
 
-!(https://github.com/DataJew/School_District_Analysis/blob/main/School_District_Analysis/PyCitySchools_Challenge.ipynb)
+(https://github.com/DataJew/School_District_Analysis/blob/main/School_District_Analysis/PyCitySchools_Challenge.ipynb)
 
 ## Deliverable 3: A Written Report for the School District Analysis
 **Instructions**: For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
