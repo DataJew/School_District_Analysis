@@ -104,10 +104,6 @@ The analysis should contain the following:
 
     * Scores by school size
         - Removing Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for size bucket.
-        > *In Addition*
-        - Removing Students from Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bucket "$630-644"
-        - Thomas High School is allocated on Spending Bin "$630-644" 
-
 
     * Scores by school type
         - Thomas High School is in the "CHARTER" type
