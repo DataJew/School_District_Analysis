@@ -66,9 +66,9 @@ repeating the school district analysis and updating the following required metri
 
 The analysis should contain the following:
 
-1. **Overview of the school district analysis:** Explain the purpose of this analysis.
+1. **Overview of the school district analysis** 
 
-2. **Results:** 
+2. **Results** 
 
 3. **Summary**
 
