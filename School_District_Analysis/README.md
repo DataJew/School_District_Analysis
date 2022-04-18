@@ -115,7 +115,7 @@ The analysis should contain the following:
     
 
 3. **Summary:** (4) changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
-1. Average Math & Reading scores
-2. % Passing Math and Reading scores
-3. Overall Passing marks changes
-4. Changes that are reflected in the funding for each student (Difference each students funding is ~ $200)
+   1. Average Math & Reading scores
+   2. % Passing Math and Reading scores
+   3. Overall Passing marks changes
+   4. Changes that are reflected in the funding for each student (Difference each students funding is ~ $200)
